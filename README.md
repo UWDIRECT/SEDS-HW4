@@ -2,7 +2,7 @@
 Homework #4 from SEDS
 
 
-### Due Feb. 8, 2017 at 5PM
+### Due Feb. 15, 2017 at 5PM
 
 _note_ This is almost certainly going to be the most challenging homework so far.  It will build on everything you have learned from flow control, functions, lists, etc.
 
